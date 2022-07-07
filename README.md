@@ -1,1 +1,2 @@
-# human-activity-recognition
+# The Project
+This was mainly a didactical project, the aim was to study to apply and learn the workings of some advanced topics in Data Mining and Machine Learning. I subdivided the work in 5 topics: EDA, Classification & Regression, Time Series Analysis & Sequential Pattern Mining, Advanced Clustering Techniques and Explainability. I wrote about the processes and results of these tasks in a final report called "Human_Activity_Recognition_Report.pdf" which I compiled with LaTex. The files "\*-notebook.ipynb", in the Notebooks folder, are the refined and reduced versions of the Jupyter Notebooks of the work I've done, divided by task.
