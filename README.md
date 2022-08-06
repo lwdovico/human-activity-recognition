@@ -1,2 +1,8 @@
 # The Project
 This was mainly a didactical project, the aim was to study to apply and learn the workings of some advanced topics in Data Mining and Machine Learning. I subdivided the work in 5 topics: EDA, Classification & Regression, Time Series Analysis & Sequential Pattern Mining, Advanced Clustering Techniques and Explainability. I wrote about the processes and results of these tasks in a final report called "Human_Activity_Recognition_Report.pdf" which I compiled with LaTex. The files "\*-notebook.ipynb", in the Notebooks folder, are the refined and reduced versions of the Jupyter Notebooks of the work I've done, divided by task.
+
+<p align="center">
+<a href="https://github.com/ludovicolemma/human-activity-recognition/blob/main/Human_Activity_Recognition_Report.pdf">Read the Report</a> •
+<a href="https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones">View the Dataset</a></br></br>
+<a href="https://github.com/ludovicolemma/human-activity-recognition/blob/main/Notebooks/01_EDA_HAR_notebook.ipynb">EDA Code</a> • <a href="https://github.com/ludovicolemma/human-activity-recognition/blob/main/Notebooks/02_Classification_Regression_HAR_notebook.ipynb">Classification & Regression Code</a> • <a href="https://github.com/ludovicolemma/human-activity-recognition/blob/main/Notebooks/03_TS%26SPM_HAR_notebook.ipynb">Time Series & Sequential Pattern Mining Code</a> • <a href="https://github.com/ludovicolemma/human-activity-recognition/blob/main/Notebooks/04_Advanced_Clustering_HAR_notebook.ipynb">Advanced Clustering Code</a> • <a href="https://github.com/ludovicolemma/human-activity-recognition/blob/main/Notebooks/05_Explainability_HAR_notebook.ipynb">Explainability Code</a>
+</p>
